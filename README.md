@@ -5,7 +5,7 @@
 
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
-- 📫 How to reach me **Saip42079@gmail.com**
+- 📫 How to reach me **saiprasadtelagavalasa504@gmail.com**
 
 
 
