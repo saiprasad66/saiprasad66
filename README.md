@@ -24,9 +24,10 @@ Here's what I've delivered:
 📊 Observability & Reliability — Deployed full-stack Dynatrace observability across AKS, Azure Web Apps, SQL Server, and on-prem hosts — reducing MTTR by 30% and MTTD by 25%.
 
 Core stack: Azure DevOps · AKS · Terraform · Helm · Docker · Chef · Dynatrace · Prisma Cloud · Snyk · SonarQube · Python · PowerShell
-Certifications: Microsoft AZ-400 (DevOps Engineer Expert) · AZ-104 (Azure Administrator) · AWS SAA-C03 ( AWS Solution Architect Associate)
-Open to DevSecOps/SRE/Platform  Engineer roles . Feel free to reach out
 
+Certifications: Microsoft AZ-400 (DevOps Engineer Expert) · AZ-104 (Azure Administrator) · AWS SAA-C03 ( AWS Solution Architect Associate)
+
+Open to DevSecOps/SRE/Platform  Engineer roles . Feel free to reach out
 
 
 
